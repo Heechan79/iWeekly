@@ -1,0 +1,9 @@
+.Column {
+  border: 1px solid lightgray;
+  border-radius: 3px;
+  padding: 0.5rem;
+  margin-left: 0.5rem;
+  width: 300px;
+  min-width: 300px;
+  height: 90%;
+}

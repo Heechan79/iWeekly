@@ -1,0 +1,4 @@
+.Layout {
+  /* TODO: Somehow I need to inherit height otherwise pass it down the tree is not nice */
+  height: 100%;
+}
